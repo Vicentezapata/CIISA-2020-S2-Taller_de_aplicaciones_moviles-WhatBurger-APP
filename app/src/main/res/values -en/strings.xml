@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WhatBurguer APP</string>
+    <string name="login_mail">Correo</string>
+    <string name="login_pass">Contraseña</string>
+</resources>
