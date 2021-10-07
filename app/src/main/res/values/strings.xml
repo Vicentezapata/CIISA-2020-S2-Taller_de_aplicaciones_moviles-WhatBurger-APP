@@ -4,4 +4,34 @@
     <string name="login_pass">Contraseña</string>
     <string name="login_btn">Ingresar</string>
     <string name="login_register">Registrarme</string>
+    <string name="welcome">¡Bienvendio a WhatBurger!</string>
+    <string name="login_sw_remember">Desea recordar usuario</string>
+
+
+    <!-- VARIABLES  REGISTER -->
+    <string name="register_name">Nombre</string>
+    <string name="register_mail">Correo</string>
+    <string name="register_pass">Contraseña</string>
+    <string name="register_rpass">Repetir contraseña</string>
+    <string name="register_dietM">Carnivoro</string>
+    <string name="register_dietV">Vegetariano</string>
+    <string name="register_fecha">Fecha nacimiento</string>
+    <string name="register_btn">Registrarme</string>
+
+    <!-- VARIABLES  DASHBOARD -->
+    <string name="dashboard_welcome">Bienvenido a nuestra carta: </string>
+    <string name="dashboard_btn_delivery">Ver locales en el mapa</string>
+    <string name="dashboard_btn_older_orders">Pedido anteriores</string>
+    <string name="dashboard_tv_filter_diet">Selecciona el tipo de hamburguesa</string>
+    <string name="dashboard_tv_lvBurguers">Listado de hamburguesas</string>
+
+
+    <!-- VARIABLES ERRORES EN LA APLICACION -->
+    <string name="error_mail_null">Campo email no debe estar vacio</string>
+    <string name="error_text_null">El campo no debe estar vacio</string>
+    <string name="error_mail_wrongformat">Campo email debe tener el formato: ejemplo@mail.cl</string>
+    <string name="error_name_wrongformat">Campo nombre no debe contener solo numeros y caracteres especiales</string>
+    <string name="error_pass_notsame">Las claves no coinciden</string>
+    <string name="title_activity_maps">Map</string>
+
 </resources>
